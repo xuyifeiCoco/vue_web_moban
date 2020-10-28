@@ -13,6 +13,9 @@ export default {
     ...mapGetters([
       'name'
     ])
+  },
+  mounted () {
+    // console.log(33)
   }
 }
 </script>
